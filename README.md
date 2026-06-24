@@ -1,87 +1,44 @@
-# TeamAction
+# 🏅 TeamAction — Sports Management Platform
 
-TeamAction is a modern sports management platform designed to connect coaches, athletes, clubs, and administrators in one centralized system.
+> A web platform for managing training, games and communication between clubs, coaches and athletes.
 
-The platform focuses on training management, match organization, performance tracking, and real-time game information.
+A sports management platform built with Next.js and Tailwind CSS, designed to streamline training schedules, match tracking, performance statistics and team communication. Deployed on Vercel.
 
----
+## 📦 What's Inside
 
-## 🚀 Vision
+- 📋 Training session management
+- ⚽ Game scheduling and tracking
+- 📊 Performance statistics
+- 💬 Communication tools for clubs, coaches and athletes
+- 📱 Responsive web interface
 
-To simplify sports club management by providing an all-in-one digital solution for communication, scheduling, and performance analysis.
+## 🛠️ Tech Stack
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## 🏆 Core Features (In Progress)
-
-- 📅 Training scheduling and management
-- 🏟 Match organization and public visibility
-- 📊 Live match statistics
-- 👥 Role-based access (Admin, Coach, Athlete, Parent, Public)
-- 💬 Private and public dashboards
-- 💳 Membership and payment tracking
-- 🔐 Authentication and club approval system
-
----
-
-## 🧑‍💻 Tech Stack
-
-- **Next.js**
-- **React**
-- **Node.js**
-- (Database – to be defined)
-- (Authentication – to be defined)
-
----
-
-## 🏗 Project Structure
-
-/app
-/components
-/lib
-/services
-/types
-/hooks
-/public
-
----
-
-## 🎯 Target Users
-
-- Club Administrators
-- Coaches
-- Athletes
-- Parents
-- General Public
-
----
-
-## 🌍 Future Goals
-
-- Multi-sport expansion
-- Advanced performance analytics
-- Mobile application
-- Federation database integration
-- Scalable SaaS model
-
----
-
-## 📦 Installation
+## 🚀 How to Run
 
 ```bash
-git clone https://github.com/JBOliveira-pt/TeamAction.git
+# 1. Clone the repository
+git clone https://github.com/VidiPT89/TeamAction.git
 cd TeamAction
+
+# 2. Install dependencies
 npm install
+
+# 3. Start the development server
 npm run dev
+
+# 4. Open http://localhost:3000
 ```
 
-Open:
+## 📝 Notes
 
-http://localhost:3000
+- Core features are currently in progress
 
 ---
 
-## 📄 License
-
-This project is currently under development.
-TeamAction – Empowering Sports Management.
+Developed by **David Martins**, **JBOliveira-pt**, **MaiaCarlos**, **andresilvapinho**
